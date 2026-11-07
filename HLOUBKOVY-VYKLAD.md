@@ -13,7 +13,7 @@ Každá z třinácti vrstev odděluje místní zjištění, autorský test a doh
 - **Syntéza:** autorské propojení textu, systematiky a místních pramenů.
 - **Otevřená otázka:** místní korpus odpověď nedává nebo připouští více řešení.
 
-Místní korpus pro tuto mapu tvoří **úvodní kapitola a 3 komentářové kapitoly**, **46 samostatně nadepsaných ustanovení** (§ 1–19, § 23–40, § 42–49; § 20–22 a § 41 v komentovaném znění obsaženy nejsou), **27 modalitních příkladů**, **8 zásad** a **0 místních karet rozhodnutí**. Rozhodné znění je znění k 1. únoru 2022 (dokument e-Sbírky `SB-2000-00207_2022-02-01`). Rejstřík ustanovení je dostupný v [INDEX.md](INDEX.md).
+Místní korpus pro tuto mapu tvoří **úvodní kapitola a 3 komentářové kapitoly**, **46 samostatně nadepsaných ustanovení** (§ 1–19, § 23–40, § 42–49; § 20–22 a § 41 v komentovaném znění obsaženy nejsou), **27 modalitních příkladů**, **8 zásad** a **1 místní kartu rozhodnutí** ([NS 23 Cdo 4219/2013](judikatura/NS-23-Cdo-4219-2013.md) k § 19). Rozhodné znění je znění k 1. únoru 2022 (dokument e-Sbírky `SB-2000-00207_2022-02-01`). Rejstřík ustanovení je dostupný v [INDEX.md](INDEX.md).
 
 ## 1. Znění, novelizace a časová působnost
 
@@ -279,13 +279,15 @@ Reprezentativní normativní vazby porušení a následku:
 ## 9. Judikatura, nosné důvody a hranice použitelnosti
 
 **Zjištění z místního komentáře.**
-Místní složka judikatury zatím neexistuje (**0 karet rozhodnutí**); soubor zásad odkazuje na **0 místních karet s použitelnou citací**. Kapitoly obsahují **0 rozpoznaných citací nebo spisových značek rozhodovací praxe**.
-- [Úvodní metodická poznámka](00-uvod.md): „Repozitář neobsahuje místní judikaturu, a komentář proto necituje žádná konkrétní rozhodnutí soudů ani Úřadu průmyslového vlastnictví“
-- [Poznámka k metodě](00-uvod.md): „Komentář neobsahuje judikaturu ani spisové značky; výklad vychází z textu zákona, jeho systematiky a vazeb na související předpisy.“
+Místní složka `judikatura/` obsahuje **1 kartu rozhodnutí** — [NS 23 Cdo 4219/2013](judikatura/NS-23-Cdo-4219-2013.md), citovanou u § 19 v kapitole [02-ucinky-zanik-vlastnictvi.md](02-ucinky-zanik-vlastnictvi.md); soubor zásad ji zmiňuje jen v úvodní poznámce a žádnou zásadu na ní nestaví. Kapitoly obsahují **1 citaci rozhodnutí** (u § 19).
+- Nosný závěr podle právní věty karty, [§ 19 — Práva vyplývající ze zápisu](02-ucinky-zanik-vlastnictvi.md): „V řízení o žalobě na ochranu průmyslového vzoru soud neposuzuje zápisnou způsobilost (zejména novost a individuální povahu) průmyslového vzoru, a to ani za situace, kdy tuto otázku již zkoumal Úřad průmyslového vlastnictví z jiného než žalovaným namítaného důvodu …“
+- Hranice podle kapitoly, [§ 19 — Práva vyplývající ze zápisu](02-ucinky-zanik-vlastnictvi.md): „Zda a kdy má soud řízení do skončení řízení o výmazu přerušit, karta neřeší; jde o výkladovou otázku.“
+- [Úvodní metodická poznámka](00-uvod.md): „Jiná konkrétní rozhodnutí soudů ani Úřadu průmyslového vlastnictví komentář necituje; tam, kde je výklad sporný, jej výslovně označuje jako výkladovou otázku.“
+- [Poznámka k metodě](00-uvod.md): „výklad jinak vychází z textu zákona, jeho systematiky a vazeb na související předpisy.“
 
-Místní korpus neposkytuje kartu ani citaci rozhodnutí; judikatorní závěr se proto nesmí domýšlet. Složka `judikatura/` bude doplněna strojově později; do té doby jde o **mezeru**, nikoli o doklad, že rozhodovací praxe neexistuje.
+U zbývajících 45 ustanovení místní korpus kartu ani citaci rozhodnutí neposkytuje; judikatorní závěr se u nich nesmí domýšlet a jde o **mezeru**, nikoli o doklad, že rozhodovací praxe neexistuje.
 
-**Kontrolní priority pro budoucí karty (syntéza, nikoli tvrzení o obsahu judikatury).** Podle místních výkladových otázek bude judikatorní opora nejvíce potřebná u: vymezení informovaného uživatele a míry volnosti původce (§ 5, § 10); hranice znaků předurčených technickou funkcí a stavebnicové výjimky (§ 7, § 10 odst. 1); grafických uživatelských rozhraní jako výrobku (§ 2 písm. b)); výjimky z vyčerpání při změně výrobku (§ 24); rozsahu práva předchozího uživatele (§ 25); pojmu shodnosti u důvodu výmazu (§ 27 odst. 1 písm. d)); dopadu výmazu na zaplacené licenční odměny (§ 28); soudní ochrany proti nečinnosti Úřadu (§ 40); druhů trestů za přestupek (§ 45a).
+**Kontrolní priority pro další karty (syntéza, nikoli tvrzení o obsahu judikatury).** Podle místních výkladových otázek bude judikatorní opora nejvíce potřebná u: vymezení informovaného uživatele a míry volnosti původce (§ 5, § 10); hranice znaků předurčených technickou funkcí a stavebnicové výjimky (§ 7, § 10 odst. 1); grafických uživatelských rozhraní jako výrobku (§ 2 písm. b)); výjimky z vyčerpání při změně výrobku (§ 24); rozsahu práva předchozího uživatele (§ 25); pojmu shodnosti u důvodu výmazu (§ 27 odst. 1 písm. d)); dopadu výmazu na zaplacené licenční odměny (§ 28); soudní ochrany proti nečinnosti Úřadu (§ 40); druhů trestů za přestupek (§ 45a).
 
 **Hloubkový test.**
 - U každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady.
@@ -293,7 +295,7 @@ Místní korpus neposkytuje kartu ani citaci rozhodnutí; judikatorní závěr s
 - Nevytvářejte obecnou právní větu z úvahy závislé na zvláštních skutkových okolnostech.
 - Rozhodovací linii popište jako shodu, vývoj, rozpor nebo otevřenou otázku a uveďte míru její stability.
 
-**Místní opora.** [rejstřík komentáře](INDEX.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní zásady](ZASADY.md); [úvodní místní výklad](00-uvod.md). Místní judikatura: zatím chybí (doplní se strojově).
+**Místní opora.** [rejstřík komentáře](INDEX.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní zásady](ZASADY.md); [úvodní místní výklad](00-uvod.md). Místní judikatura: [NS 23 Cdo 4219/2013](judikatura/NS-23-Cdo-4219-2013.md) (§ 19).
 
 ## 10. Konkurenční výklady, protiargumenty a hraniční případy
 
@@ -316,7 +318,7 @@ Každé ze 46 ustanovení má oddíl **G. Protiargumenty a rizika**; kapitoly na
 
 **Hloubkový test.**
 - Formulujte nejsilnější verzi každého rozumně obhajitelného výkladu, nikoli jeho oslabenou karikaturu.
-- U každé varianty uveďte textový, systematický, historický, účelový a (až bude k dispozici) místní judikatorní argument.
+- U každé varianty uveďte textový, systematický, historický, účelový a — tam, kde místní karta existuje (zatím jen § 19) — místní judikatorní argument.
 - Porovnejte praktické následky variant a vysvětlete, který argument převáží a za jakých předpokladů.
 - Není-li spor místními prameny řešitelný, zachovejte varianty a označte nejistotu místo předstírání ustáleného závěru.
 
@@ -384,8 +386,8 @@ Aplikační vrstvu lze ověřit zejména v:
 **Zjištění z místního komentáře.**
 Stav poznání je posuzován nad **úvodní kapitolou a 3 komentářovými kapitolami**. Následující matice je redakční diagnostika, nikoli automatické věcné hodnocení správnosti komentáře.
 Předpisové kontrolní mezery zjištěné z místní struktury:
-- místní judikatura zatím chybí (0 karet); složka `judikatura/` se doplní strojově,
-- soubor zásad proto neposkytuje odkaz na místní kartu s citovatelnou judikatorní tezí,
+- místní judikatura je zastoupena jen 1 kartou ([NS 23 Cdo 4219/2013](judikatura/NS-23-Cdo-4219-2013.md) k § 19); u zbývajících 45 ustanovení chybí,
+- soubor zásad na této kartě žádnou zásadu nestaví,
 - místní důvodová zpráva v repozitáři není,
 - korpus zachycuje znění k 1. 2. 2022; pozdější změny nemusí být zohledněny,
 - ústavní a evropská rovina (zejména unijní harmonizační původ pojmů) není samostatně rozpracována.
@@ -405,14 +407,14 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 
 | Kapitola | Proces | Důkazy | Následky | Judikatura | Sporné výklady | Vazby | Aplikace | Stav |
 |---|---|---|---|---|---|---|---|---|
-| [Úvod — Komentář k zákonu č. 207/2000 Sb.](00-uvod.md) | ano | ano | ano | nenalezeno | ano | ano | nenalezeno | ano |
+| [Úvod — Komentář k zákonu č. 207/2000 Sb.](00-uvod.md) | ano | ano | ano | ano (odkaz na kartu k § 19) | ano | ano | nenalezeno | ano |
 | [Kapitola 1 — ochrana průmyslových vzorů a právo k vzoru (§ 1–18)](01-ochrana-pravo-k-vzoru.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
-| [Kapitola 2 — účinky, zánik a výmaz, vzor jako předmět vlastnictví (§ 19–33)](02-ucinky-zanik-vlastnictvi.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
+| [Kapitola 2 — účinky, zánik a výmaz, vzor jako předmět vlastnictví (§ 19–33)](02-ucinky-zanik-vlastnictvi.md) | ano | ano | ano | ano (§ 19) | ano | ano | ano | ano |
 | [Kapitola 3 — řízení, přestupky, přechodná a závěrečná ustanovení (§ 34–49)](03-rizeni-prestupky-zaverecna.md) | ano | ano | ano | nenalezeno | ano | ano | ano | ano |
 
 ### Kontrolní priority podle místní struktury
 
-- **Judikatura:** textový signál (spisová značka nebo karta) nebyl nalezen ve 4 ze 4 kapitol; po strojovém doplnění složky `judikatura/` je nutné revidovat vrstvy 4, 9 a 10.
+- **Judikatura:** textový signál (spisová značka nebo karta) je v kapitole 2 (karta [NS 23 Cdo 4219/2013](judikatura/NS-23-Cdo-4219-2013.md) u § 19) a v úvodu; v kapitolách 1 a 3 nebyl nalezen. Při doplnění dalších karet je nutné revidovat vrstvy 4, 9 a 10.
 - **Aplikace:** úvodní kapitola neobsahuje modelovou situaci; aplikace je soustředěna v kapitolách 01–03.
 - **Aktualizační spouštěče specifické pro tento předpis:** novela zákona po 1. 2. 2022; změna sazebníku zákona č. 634/2004 Sb. (položky citované u § 11 a § 29); změna unijního nařízení o vzorech Společenství nebo názvu unijního úřadu; změna zákona č. 221/2006 Sb. nebo zákona č. 250/2016 Sb.
 
@@ -455,7 +457,7 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 - [ ] Rozhodné znění a přechodná ustanovení jsou označena.
 - [ ] Každý pojem a modalita mají určený právní následek.
 - [ ] Procesní a důkazní rovina navazují na jednotlivé znaky normy.
-- [ ] Judikatura je zasazena do skutkového a procesního kontextu (po doplnění složky `judikatura/`).
+- [ ] Judikatura je zasazena do skutkového a procesního kontextu (karta NS 23 Cdo 4219/2013 u § 19 i karty doplněné později).
 - [ ] Konkurenční výklad je formulován v nejsilnější obhajitelné podobě.
 - [ ] Modelový případ obsahuje úplnou subsumpci a variantu hraničního případu.
 - [ ] Nejistoty, mezery a aktualizační spouštěče jsou viditelné.

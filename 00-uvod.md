@@ -2,7 +2,7 @@
 
 > **Znění k 1. únoru 2022** (dokument e-Sbírky `SB-2000-00207_2022-02-01`). Komentář je zpracován **výhradně z lokálních materiálů**; nevyužívá živé komerční právní databáze.
 >
-> **Metodická poznámka:** Komentář vychází z doslovného znění zákona v uvedené verzi e-Sbírky, z jeho systematiky a z obecných výkladových zásad. Repozitář neobsahuje místní judikaturu, a komentář proto necituje žádná konkrétní rozhodnutí soudů ani Úřadu průmyslového vlastnictví; tam, kde je výklad sporný, jej výslovně označuje jako výkladovou otázku. Zákon obsahuje několik dobových odkazů, které je nutné číst s ohledem na pozdější vývoj právního řádu — zejména odkazy na obchodní zákoník (zrušený k 1. 1. 2014), na zákon č. 368/1992 Sb., o správních poplatcích (nahrazený zákonem č. 634/2004 Sb.), a dobové označení unijního úřadu („Úřad pro harmonizaci ve vnitřním trhu (známky a vzory)"); komentář na tato místa upozorňuje u jednotlivých ustanovení.
+> **Metodická poznámka:** Komentář vychází z doslovného znění zákona v uvedené verzi e-Sbírky, z jeho systematiky a z obecných výkladových zásad. Z místní judikatury je ke komentáři připojena jedna karta: [NS 23 Cdo 4219/2013](judikatura/NS-23-Cdo-4219-2013.md) k § 19, podle jejíž právní věty v řízení o žalobě na ochranu průmyslového vzoru soud neposuzuje zápisnou způsobilost (zejména novost a individuální povahu) průmyslového vzoru, a to ani za situace, kdy tuto otázku již zkoumal Úřad průmyslového vlastnictví z jiného než žalovaným namítaného důvodu. Jiná konkrétní rozhodnutí soudů ani Úřadu průmyslového vlastnictví komentář necituje; tam, kde je výklad sporný, jej výslovně označuje jako výkladovou otázku. Zákon obsahuje několik dobových odkazů, které je nutné číst s ohledem na pozdější vývoj právního řádu — zejména odkazy na obchodní zákoník (zrušený k 1. 1. 2014), na zákon č. 368/1992 Sb., o správních poplatcích (nahrazený zákonem č. 634/2004 Sb.), a dobové označení unijního úřadu („Úřad pro harmonizaci ve vnitřním trhu (známky a vzory)"); komentář na tato místa upozorňuje u jednotlivých ustanovení.
 
 ---
 
@@ -71,7 +71,7 @@ Zákon je členěn do tří částí; část první obsahuje devět hlav. Ustano
 ## Poznámka k metodě
 
 - U každého paragrafu je v citačním bloku uvedeno **úplné doslovné znění** (bez elips), pod ním oddíl `**Výklad:**` a dále oddíly F. Kazuistika, G. Protiargumenty a rizika, H. Praktický závěr a kontrolní checklist.
-- Komentář **neobsahuje judikaturu** ani spisové značky; výklad vychází z textu zákona, jeho systematiky a vazeb na související předpisy. Sporná místa jsou výslovně označena jako výkladové otázky.
+- Judikatura z místních zdrojů je zařazena u § 19 (**1 karta**: [NS 23 Cdo 4219/2013](judikatura/NS-23-Cdo-4219-2013.md)); výklad jinak vychází z textu zákona, jeho systematiky a vazeb na související předpisy. Sporná místa jsou výslovně označena jako výkladové otázky.
 - Zastaralé odkazy zákona (obchodní zákoník, zákon č. 368/1992 Sb., dobové označení unijního úřadu, číslování poznámek ke správnímu řádu) komentář nečte doslovně, ale podle jejich věcného obsahu a podle přechodných a navazujících ustanovení pozdějších předpisů.
 - Doprovodné dokumenty [ZASADY.md](ZASADY.md) a [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md) shrnují právní zásady a normativní modality zákona s doslovnými citacemi z kapitol.
 

@@ -2,7 +2,7 @@
 
 <!-- LOCAL-VYKLADOVE-OTAZKY-GENERATED -->
 
-> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře. Vychází výhradně z místních kapitol, místního znění předpisu a souborů **ZASADY.md** a **PRAVNI-MODALITY.md**. Místní důvodová zpráva ani místní karty rozhodnutí v repozitáři zatím nejsou; dokument proto nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
+> Tento dokument je pracovní kontrolní mapa sepisovatele komentáře. Vychází výhradně z místních kapitol, místního znění předpisu a souborů **ZASADY.md** a **PRAVNI-MODALITY.md**. Místní důvodová zpráva v repozitáři není; složka `judikatura/` obsahuje 1 místní kartu rozhodnutí ([NS 23 Cdo 4219/2013](judikatura/NS-23-Cdo-4219-2013.md) k § 19). Dokument nepřidává tezi převzatou z internetu ani nedoplňuje chybějící právo odhadem.
 
 ## Jak dokument používat
 
@@ -97,7 +97,7 @@ Normativní a výkladový text upozorňuje například na:
 
 **Jak ji řešit.** Pro každý znak normy vytvořte řádek: rozhodná skutečnost, kdo ji tvrdí, dostupný důkaz, kdo důkaz opatřuje, míra přesvědčení a následek neprokázání. V řízení o výmazu počítejte s koncentrací — opomenutý důvod nebo důkaz nelze dodatečně doplnit. Právní argument nenahrazuje skutkové zjištění a zákonnou domněnku nelze dovodit jen z obtížného dokazování.
 
-**Místní opora.** [Rozhodné skutečnosti, dokazování a riziko nejistoty](HLOUBKOVY-VYKLAD.md); [§ 25 — Právo předchozího uživatele](02-ucinky-zanik-vlastnictvi.md); [§ 29](02-ucinky-zanik-vlastnictvi.md); [místní modality](PRAVNI-MODALITY.md). Místní judikatura k důkaznímu břemenu zatím chybí (složka `judikatura/` se doplní strojově).
+**Místní opora.** [Rozhodné skutečnosti, dokazování a riziko nejistoty](HLOUBKOVY-VYKLAD.md); [§ 25 — Právo předchozího uživatele](02-ucinky-zanik-vlastnictvi.md); [§ 29](02-ucinky-zanik-vlastnictvi.md); [místní modality](PRAVNI-MODALITY.md). Místní judikatura k důkaznímu břemenu není; jediná místní karta ([NS 23 Cdo 4219/2013](judikatura/NS-23-Cdo-4219-2013.md) k § 19) se týká zápisné způsobilosti v řízení o žalobě na ochranu vzoru.
 
 ## 7. Jaké právní následky, sankce a prostředky ochrany navazují?
 
@@ -135,12 +135,13 @@ Typickým střetem je výlučnost vlastníka (§ 19) proti ochraně dobré víry
 ## 9. Co skutečně plyne z místní judikatury a kde jsou její hranice?
 
 **Odpověď pro tento komentář.**
-Místní složka judikatury zatím neexistuje (**0** karet rozhodnutí); v systematickém souboru zásad je odkazováno na **0** různých místních karet s použitelnou citací a kapitoly necitují žádnou spisovou značku. Úvod to uvádí výslovně: „Repozitář neobsahuje místní judikaturu, a komentář proto necituje žádná konkrétní rozhodnutí soudů ani Úřadu průmyslového vlastnictví“.
-Místní korpus neposkytuje citovatelnou judikatorní tezi; judikatorní odpověď se proto nesmí domýšlet. Jde o **mezeru**: složka `judikatura/` se doplní strojově později.
+Místní složka `judikatura/` obsahuje **1** kartu rozhodnutí: [NS 23 Cdo 4219/2013](judikatura/NS-23-Cdo-4219-2013.md), citovanou u § 19; soubor zásad ji zmiňuje jen v úvodní poznámce a žádnou zásadu na ní nestaví. Nosný závěr podle právní věty karty: [§ 19 — Práva vyplývající ze zápisu](02-ucinky-zanik-vlastnictvi.md): „V řízení o žalobě na ochranu průmyslového vzoru soud neposuzuje zápisnou způsobilost (zejména novost a individuální povahu) průmyslového vzoru, a to ani za situace, kdy tuto otázku již zkoumal Úřad průmyslového vlastnictví z jiného než žalovaným namítaného důvodu …“
+Hranici použitelnosti vymezuje sama kapitola: [§ 19 — Práva vyplývající ze zápisu](02-ucinky-zanik-vlastnictvi.md): „Zda a kdy má soud řízení do skončení řízení o výmazu přerušit, karta neřeší; jde o výkladovou otázku.“
+U zbývajících 45 ustanovení místní korpus citovatelnou judikatorní tezi neposkytuje; judikatorní odpověď se u nich nesmí domýšlet a jde o **mezeru**.
 
-**Jak ji řešit.** Po doplnění karet u každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění a stejný právní problém (u unijních rozhodnutí k vzorům Společenství také shodnou formulaci normy). Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo. Prioritně revidujte místa označená jako výkladové otázky (otázka 11).
+**Jak ji řešit.** U karty NS 23 Cdo 4219/2013 i u každého dalšího doplněného rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud vykládal stejné znění a stejný právní problém (u unijních rozhodnutí k vzorům Společenství také shodnou formulaci normy). Právní větu nerozšiřujte na situaci, kterou rozhodnutí neřešilo. Prioritně revidujte místa označená jako výkladové otázky (otázka 11).
 
-**Místní opora.** [místní zásady](ZASADY.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md); [úvodní místní výklad](00-uvod.md). Přehled místní judikatury: zatím chybí.
+**Místní opora.** [místní zásady](ZASADY.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md); [úvodní místní výklad](00-uvod.md). Přehled místní judikatury: [NS 23 Cdo 4219/2013](judikatura/NS-23-Cdo-4219-2013.md) (§ 19).
 
 ## 10. Jaké systematické, kolizní a časové vazby mohou změnit odpověď?
 
@@ -174,7 +175,7 @@ Každé ze 46 ustanovení má oddíl „G. Protiargumenty a rizika“ a kapitoly
 - [§ 45a](03-rizeni-prestupky-zaverecna.md): přípustnost propadnutí věci a napomenutí, které § 45a nezmiňuje.
 - [Konkurenční výklady, protiargumenty a hraniční případy](HLOUBKOVY-VYKLAD.md)
 
-**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů. U každého uveďte textový, systematický, účelový a (až bude k dispozici) místní judikatorní argument, praktický následek a důvod, proč jeden převáží. Není-li spor místními prameny řešitelný, zachovejte obě varianty a transparentně označte nejistotu.
+**Jak ji řešit.** Formulujte nejsilnější verzi obou výkladů. U každého uveďte textový, systematický, účelový a — tam, kde místní karta existuje (zatím jen § 19) — místní judikatorní argument, praktický následek a důvod, proč jeden převáží. Není-li spor místními prameny řešitelný, zachovejte obě varianty a transparentně označte nejistotu.
 
 **Místní opora.** [místní kapitoly](01-ochrana-pravo-k-vzoru.md); [kapitola 02](02-ucinky-zanik-vlastnictvi.md); [kapitola 03](03-rizeni-prestupky-zaverecna.md); [místní zásady](ZASADY.md)
 
@@ -192,9 +193,9 @@ Příklad úplné subsumpce s variantou: [§ 49 — kazuistika](03-rizeni-prestu
 ## 13. Co komentář dosud neví a kdy se musí aktualizovat?
 
 **Odpověď pro tento komentář.**
-Současný místní korpus tvoří **úvodní kapitola a 3 komentářové kapitoly** (46 ustanovení) a **0** karet rozhodnutí, doplněné samostatnou mapou zásad a modalit. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
+Současný místní korpus tvoří **úvodní kapitola a 3 komentářové kapitoly** (46 ustanovení) a **1** karta rozhodnutí ([NS 23 Cdo 4219/2013](judikatura/NS-23-Cdo-4219-2013.md) k § 19), doplněné samostatnou mapou zásad a modalit. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
 Kontrolní mezery zjištěné podle místní struktury:
-- místní judikatura zatím neposkytuje citovatelnou tezi (složka `judikatura/` se doplní strojově),
+- místní judikatura je zastoupena jedinou kartou ([NS 23 Cdo 4219/2013](judikatura/NS-23-Cdo-4219-2013.md) k § 19); u zbývajících 45 ustanovení chybí,
 - místní důvodová zpráva chybí,
 - korpus odpovídá znění k 1. 2. 2022; úvod upozorňuje: „Vychází ze znění zveřejněného k 1. 2. 2022; pozdější změny nemusí být zohledněny.“
 - ústavní a unijní rovina není samostatně rozpracována.

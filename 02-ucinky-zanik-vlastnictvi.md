@@ -29,6 +29,8 @@ Společným jmenovatelem je **rejstříkový princip**: účinky převodu a lice
 - *NS* [23 Cdo 4219/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D706E771EA989F71C1257F5E00365455?openDocument) — 15. 12. 2015, kat. A
   > „V řízení o žalobě na ochranu průmyslového vzoru soud neposuzuje zápisnou způsobilost (zejména novost a individuální povahu) průmyslového vzoru, a to ani za situace, kdy tuto otázku již zkoumal Úřad průmyslového vlastnictví z jiného než žalovaným namítaného důvodu nezpůsobilosti registrace ustanovení § 10 odst. 1 zákona č. 207/2000 Sb. (ve znění pozdějších předpisů)tím není dotčeno"
 
+**K místní judikaturní kartě NS 23 Cdo 4219/2013:** Karta potvrzuje dělbu příslušnosti mezi soud a Úřad: v řízení o žalobě na ochranu průmyslového vzoru soud zápisnou způsobilost vzoru (zejména novost a individuální povahu) neposuzuje, a to ani tehdy, když ji Úřad již zkoumal z jiného důvodu, než jaký namítá žalovaný. Pro praxi z toho plyne, že žalovaný, který zpochybňuje novost nebo individuální povahu zapsaného vzoru, musí podat návrh na výmaz u Úřadu (§ 27 a násl.), a nikoli spoléhat na obranu v soudním sporu; soud vychází ze zápisu, dokud vzor nebyl vymazán. Zda a kdy má soud řízení do skončení řízení o výmazu přerušit, karta neřeší; jde o výkladovou otázku.
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Výrobce A má zapsaný průmyslový vzor lahve na nápoje. Obchodník B dováží z Asie lahve, které se od vzoru liší jen jiným odstínem a nepatrně odlišným reliéfem uzávěru, skladuje je v Brně a nabízí v e-shopu. A se o tom dozví z inzerce.
