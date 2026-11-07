@@ -24,6 +24,11 @@ Společným jmenovatelem je **rejstříkový princip**: účinky převodu a lice
 
 **Vymáhání a sankce.** Nároky z porušení (zdržení se, odstranění následků, stažení a zničení výrobků, náhrada škody, vydání bezdůvodného obohacení, přiměřené zadostiučinění, paušální náhrada) upravuje zákon č. 221/2006 Sb. (§ 4, § 5); v prvním stupni rozhoduje Městský soud v Praze (§ 6 odst. 1 písm. a) téhož zákona). Neoprávněné užívání vzoru je zároveň přestupkem (§ 45a; kapitola 03).
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [23 Cdo 4219/2013](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/D706E771EA989F71C1257F5E00365455?openDocument) — 15. 12. 2015, kat. A
+  > „V řízení o žalobě na ochranu průmyslového vzoru soud neposuzuje zápisnou způsobilost (zejména novost a individuální povahu) průmyslového vzoru, a to ani za situace, kdy tuto otázku již zkoumal Úřad průmyslového vlastnictví z jiného než žalovaným namítaného důvodu nezpůsobilosti registrace ustanovení § 10 odst. 1 zákona č. 207/2000 Sb. (ve znění pozdějších předpisů)tím není dotčeno"
+
 #### F. Kazuistika
 
 **1. Modelová situace.** Výrobce A má zapsaný průmyslový vzor lahve na nápoje. Obchodník B dováží z Asie lahve, které se od vzoru liší jen jiným odstínem a nepatrně odlišným reliéfem uzávěru, skladuje je v Brně a nabízí v e-shopu. A se o tom dozví z inzerce.
